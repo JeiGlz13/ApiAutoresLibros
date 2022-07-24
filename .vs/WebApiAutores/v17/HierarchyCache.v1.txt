@@ -1,0 +1,201 @@
+﻿++Solución "WebApiAutores" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:WebApiAutores.sln
+++WebApiAutores
+i:{00000000-0000-0000-0000-000000000000}:WebApiAutores
+++Connected Services 
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:>355
+++Dependencias
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:>354
+++Properties
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\properties\
+++launchSettings.json
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\properties\launchsettings.json
+++wwwroot
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\wwwroot\
+++Controllers
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\controllers\
+++V1
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\controllers\v1\
+++AutoresController.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\controllers\v1\autorescontroller.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\controllers\v2\autorescontroller.cs
+++ComentariosController.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\controllers\v1\comentarioscontroller.cs
+++CuentasController.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\controllers\v1\cuentascontroller.cs
+++LibrosController.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\controllers\v1\libroscontroller.cs
+++RootController.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\controllers\v1\rootcontroller.cs
+++V2
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\controllers\v2\
+++DTO
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\
+++AutorCreacionDTO.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\autorcreaciondto.cs
+++AutorDTO.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\autordto.cs
+++AutorDTOConLibros.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\autordtoconlibros.cs
+++ColeccionDeRecursos.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\coleccionderecursos.cs
+++ComentarioCreacionDTO.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\comentariocreaciondto.cs
+++ComentarioDTO.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\comentariodto.cs
+++CredencialesUsuario.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\credencialesusuario.cs
+++DatoHATEOAS.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\datohateoas.cs
+++EditarAdminDTO.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\editaradmindto.cs
+++LibroCreacionDTO.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\librocreaciondto.cs
+++LibroDTO.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\librodto.cs
+++LibroDTOConAutores.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\librodtoconautores.cs
+++LibroPatchDTO.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\libropatchdto.cs
+++Recurso.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\recurso.cs
+++RespuestaAutenticacion.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\respuestaautenticacion.cs
+++ResultadoHashDTO.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\resultadohashdto.cs
+++Entidades
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\entidades\
+++Filtros
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\filtros\
+++Middlewares
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\middlewares\
+++Migrations
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\migrations\
+++Servicios
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\servicios\
+++GeneradorEnlaces.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\servicios\generadorenlaces.cs
+++HashService.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\servicios\hashservice.cs
+++Utilidades
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\utilidades\
+++AgregarParametroHATEOAS.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\utilidades\agregarparametrohateoas.cs
+++AutoMapperProfiles.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\utilidades\automapperprofiles.cs
+++CabeceraEstaPresenteAttribute.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\utilidades\cabeceraestapresenteattribute.cs
+++HATEOASAutorFilterAttribute.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\utilidades\hateoasautorfilterattribute.cs
+++HATEOASFiltroAttribute.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\utilidades\hateoasfiltroattribute.cs
+++SwaggerAgrupaPorVersion.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\utilidades\swaggeragrupaporversion.cs
+++Validations
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\validations\
+++ApplicationDbContext.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\applicationdbcontext.cs
+++appsettings.json
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\appsettings.json
+++appsettings.Development.json
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\appsettings.development.json
+++Program.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\program.cs
+++Startup.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\startup.cs
+++No se detectaron dependencias de servicio
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:>356
+++Analizadores
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:analizadores
+++Marcos de trabajo
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:marcos de trabajo
+++Paquetes
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:paquetes
+++Autor.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\entidades\autor.cs
+++AutorLibro.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\entidades\autorlibro.cs
+++Comentario.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\entidades\comentario.cs
+++Libro.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\entidades\libro.cs
+++FiltroDeExcepcion.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\filtros\filtrodeexcepcion.cs
+++LoggingResponse.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\middlewares\loggingresponse.cs
+++20220702232712_Inicial.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\migrations\20220702232712_inicial.cs
+++20220703222317_Comentarios.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\migrations\20220703222317_comentarios.cs
+++20220704142747_AutorLibro.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\migrations\20220704142747_autorlibro.cs
+++20220706213914_FechaPublicacionLibro.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\migrations\20220706213914_fechapublicacionlibro.cs
+++20220708154724_SistemaUsuarios.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\migrations\20220708154724_sistemausuarios.cs
+++20220710231943_ComentarioUsuario.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\migrations\20220710231943_comentariousuario.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\migrations\applicationdbcontextmodelsnapshot.cs
+++PrimeraLetraMayusculaAttribute.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\validations\primeraletramayusculaattribute.cs
+++Microsoft.AspNetCore.Analyzers
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:>375
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.6)
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:>379
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.6)
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:>378
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (6.0.6)
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:>377
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.6)
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:>374
+++Microsoft.EntityFrameworkCore.Tools (6.0.6)
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:>380
+++Swashbuckle.AspNetCore (6.2.3)
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:>376
+++20220702232712_Inicial.Designer.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\migrations\20220702232712_inicial.designer.cs
+++20220703222317_Comentarios.Designer.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\migrations\20220703222317_comentarios.designer.cs
+++20220704142747_AutorLibro.Designer.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\migrations\20220704142747_autorlibro.designer.cs
+++20220706213914_FechaPublicacionLibro.Designer.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\migrations\20220706213914_fechapublicacionlibro.designer.cs
+++20220708154724_SistemaUsuarios.Designer.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\migrations\20220708154724_sistemausuarios.designer.cs
+++20220710231943_ComentarioUsuario.Designer.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\migrations\20220710231943_comentariousuario.designer.cs
+++PaginacionDTO.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\dto\paginaciondto.cs
+++HttpContextExtensions.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\utilidades\httpcontextextensions.cs
+++IQueryableExtensions.cs
+i:{624472a0-5e1a-4078-a23c-c14212c11df4}:c:\users\jnurinda\desktop\.net\webapiautores\webapiautores\utilidades\iqueryableextensions.cs
